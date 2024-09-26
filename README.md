@@ -55,6 +55,5 @@ Swiper, and Tailwind CSS.
 
 ---
 
-📫 **Contact Me]
-**:  
-Feel free to reach out at [your.email@example.com](mailto:your.email@example.com)
+📫 **Contact Me**:  
+Feel free to reach out at [patelhardik999666@gmail.com](mailto:patelhardik999666@gmail.com)
