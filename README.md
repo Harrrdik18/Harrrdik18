@@ -20,10 +20,7 @@ I am a **Full Stack Developer** with a passion for creating beautiful and functi
 
 ---
 
-## 🏆 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrrdik18&layout=compact&theme=radical)
 
----
 
 ## 🔥 My Projects:
 1. **[QKart](https://patelhardik999666-me-qkart-frontend-v2.vercel.app/)** - E-commerce application offering a variety of products.
@@ -48,7 +45,10 @@ Swiper, and Tailwind CSS.
 - [Another Blog Post](https://yourblog.com)
 -->
 ---
+## 🏆 GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrrdik18&layout=compact&theme=radical)
 
+---
 ## 🗂️ Open to:
 - **Collaborations**: I am open to collaborating on web development projects.
 - **Job Opportunities**: Actively seeking roles in web development or full-stack development.
