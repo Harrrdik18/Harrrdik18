@@ -27,7 +27,7 @@ I am a **Full Stack Developer** with a passion for creating beautiful and functi
 ---
 
 ## 🔥 My Projects:
-1. **[QKart]([https://github.com/yourusername/QKart](https://patelhardik999666-me-qkart-frontend-v2.vercel.app/))** - E-commerce application offering a variety of products.
+1. **[QKart](https://patelhardik999666-me-qkart-frontend-v2.vercel.app/)** - E-commerce application offering a variety of products.
 2. **[Project Name](https://github.com/yourusername/projectname)** - Brief description of the project.
 3. **[Project Name](https://github.com/yourusername/projectname)** - Brief description of the project.
 
