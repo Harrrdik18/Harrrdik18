@@ -5,8 +5,8 @@ I am a **Full Stack Developer** with a passion for creating beautiful and functi
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrrdik18/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)]([https://www.crio.do/learn/portfolio/patelhardik999666])
 
 ---
 
@@ -27,7 +27,7 @@ I am a **Full Stack Developer** with a passion for creating beautiful and functi
 ---
 
 ## 🔥 My Projects:
-1. **[QKart](https://github.com/yourusername/QKart)** - E-commerce application offering a variety of products.
+1. **[QKart]([https://github.com/yourusername/QKart](https://patelhardik999666-me-qkart-frontend-v2.vercel.app/))** - E-commerce application offering a variety of products.
 2. **[Project Name](https://github.com/yourusername/projectname)** - Brief description of the project.
 3. **[Project Name](https://github.com/yourusername/projectname)** - Brief description of the project.
 
@@ -54,5 +54,6 @@ I am a **Full Stack Developer** with a passion for creating beautiful and functi
 
 ---
 
-📫 **Contact Me**:  
+📫 **Contact Me]
+**:  
 Feel free to reach out at [your.email@example.com](mailto:your.email@example.com)
