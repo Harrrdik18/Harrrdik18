@@ -31,8 +31,8 @@ Swiper, and Tailwind CSS.
 
 ---
 
-## 📈 My Activity:
-<!--START_SECTION:activity
+<!--## 📈 My Activity:
+START_SECTION:activity
 1. 💻 Opened a new pull request in [repo-name](https://github.com/repo-link)
 2. 🛠 Pushed code to [repo-name](https://github.com/repo-link)
 3. 🎉 Merged PR in [repo-name](https://github.com/repo-link)
