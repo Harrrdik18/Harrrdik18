@@ -6,7 +6,7 @@ I am a **Full Stack Developer** with a passion for creating beautiful and functi
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrrdik18/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)]([https://www.crio.do/learn/portfolio/patelhardik999666])
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.crio.do/learn/portfolio/patelhardik999666)
 
 ---
 
@@ -21,7 +21,7 @@ I am a **Full Stack Developer** with a passion for creating beautiful and functi
 ---
 
 ## 🏆 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrrdik18&layout=compact&theme=radical)
 
 ---
 
