@@ -21,15 +21,16 @@ I am a **Full Stack Developer** with a passion for creating beautiful and functi
 ---
 
 ## 🏆 GitHub Stats:
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 My Projects:
 1. **[QKart](https://patelhardik999666-me-qkart-frontend-v2.vercel.app/)** - E-commerce application offering a variety of products.
-2. **[Project Name](https://github.com/yourusername/projectname)** - Brief description of the project.
-3. **[Project Name](https://github.com/yourusername/projectname)** - Brief description of the project.
+2. **[NoteMaster](https://notes-app-psi-smoky.vercel.app/)** - NoteMaster is a robust and intuitive notes application designed to streamline the process of creating, reading, updating,
+and deleting notes.
+3. **[CineGlance](https://movie-website-virid-three.vercel.app/)** - CineGlance is a dynamic and interactive movie browsing application built with modern web technologies such as React,
+Swiper, and Tailwind CSS.
 
 ---
 
